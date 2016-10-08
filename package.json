@@ -1,0 +1,21 @@
+{
+  "name": "development-task",
+  "version": "1.0.0",
+  "description": "'new task'",
+  "main": "page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'elisa'",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-postcss": "^0.8.0",
+    "jQuery": "^1.7.4"
+  }
+}
